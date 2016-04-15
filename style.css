@@ -1,0 +1,119 @@
+.content-footer,
+.masthead-heading,
+.masthead-into{
+  text-align: center;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #F09813;
+}
+
+a:visited {
+  color: #FFC71B;
+}
+
+a:hover{
+  color: #F3733E;
+}
+
+.masthead {
+  padding: 6em 0;
+  border-top: solid 0.5em #6D6968;
+  border-bottom: solid 0.5em #6D6968;
+  background-size: cover;
+  background-image:  url('http://i464.photobucket.com/albums/rr7/Keegan_Ariel/sunset_zps0brekccl.jpeg');
+  background-repeat: no-repeat;
+}
+
+.masthead-intro {
+  margin-bottom: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-shadow: 0.05em 0.1em 0.1em #F47357;
+  text-align: center;
+  color: #FCD932;
+  
+}
+
+.masthead-heading {
+  margin-top: -0.4em;
+  font-size: 5em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  color: #FCD932;
+  text-shadow: 0.05em 0.1em 0.1em #F47357;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}
+
+.facts-section > h1 {
+  font-size: 2em;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 1em;
+  margin-bottom: -.25em;
+  color: #3F4B82;
+}
+.facts-section > h2 {
+  color: #3F4B82; 
+  font-size: 1.2em;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 2em;
+  margin-bottom: -0.5em;
+}
+
+.facts-section > p, 
+.facts-section > h2 {
+  margin-left: 30px;
+}
+
+.about-section,
+.home-section, {
+text-align: center;
+}
+
+.about-section,
+.home-section,
+.facts-section {
+  max-width: 44em ;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  font-size: 1.05em;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.social {
+  padding:0;
+  list-style: none;
+}
+.social > li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.about-section > p,
+.home-section > p,
+.content-footer > p {
+  font-weight: 300;
+  letter-spacing: 0.05em;
+}
+
+.content-footer {
+  padding: 3em 0em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5em;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #3F4B82;
+  background-color: #5A5CB3;
+
+}
+
+
+.content-footer > p {
+    color: white;
+}
